@@ -1,0 +1,47 @@
+.ccc{
+    width: 70px;
+    height: 50px;
+    border-radius: 40px;
+    color: white;
+    
+}
+#bbb{
+    border: 1px solid black;
+    border-radius:40px;
+    text-align: center;
+    background-color: black;
+    width: 800px;
+}
+#zero{
+    color: white;
+    padding-left: 690px;
+    font-size:60px;
+    
+}
+#yellow{
+    background-color:orange;
+    font-size: larger;
+    font-weight: bolder;
+}
+#id{
+    background-color:darkgray;
+    color: black;
+    font-size:x-large;
+    font-weight: bolder;
+
+}
+#big{
+    width: 140px;
+    background-color: grey;
+    color: white;
+    font-size:x-large;
+}
+#num{
+    background-color: grey;
+    color: white;
+    font-size:x-large;
+}
+#re{
+    background-color:rgb(23, 27, 32);
+    border-color: black;
+}
